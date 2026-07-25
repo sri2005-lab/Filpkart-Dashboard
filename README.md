@@ -1,6 +1,6 @@
 . Flipkart Sales Dashboard
 
-
+![Flipkart Dashboard](Flipkart dashboard.jpg)
 
 . Project Overview
 
