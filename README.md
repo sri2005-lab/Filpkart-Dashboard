@@ -1,6 +1,8 @@
 . Flipkart Sales Dashboard
+
 Dashboard preview
-![Flipkart Dashboard](Flipkart dashboard.jpg)
+
+![Flipkart Dashboard](Flipkartdashboard.jpg)
 
 . Project Overview
 
